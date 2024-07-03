@@ -1,6 +1,8 @@
 # qardl_eviews
 (Quantile ARDL (Autoregressive Distributed Lag Model) QARDL) regression Use qardl With R Eviews 14
 
+https://www.youtube.com/watch?v=1pLC327VIoI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
